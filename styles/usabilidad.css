@@ -1,0 +1,24 @@
+.texto{
+    display: flex;
+    width: 800px;
+    height: 600px;
+    background-color: antiquewhite;
+    justify-content: center;
+    position: relative;
+    left: 600px;
+}
+.texto h1{
+    display: flex;
+    position: absolute;
+    top: 100px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.texto p{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    font-size: 25px;
+    text-align: center;
+    font-family: serif;
+}
